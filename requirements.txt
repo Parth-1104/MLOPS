@@ -1,0 +1,13 @@
+scikit-learn
+xgboost
+nltk    
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+dvc
+PyYAML
+
+
